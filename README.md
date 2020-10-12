@@ -11,7 +11,3 @@
 
 This is a simple pizza ordering application wherein one can order pizzas, employees can login, complete the orders one by one.
 
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
